@@ -1,0 +1,20 @@
+{
+  "name": "python-bm25",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pip install nltk && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "install": "^0.13.0",
+    "nltk": "^0.0.1",
+    "pip": "^0.0.1",
+    "python": "^0.0.4",
+    "python3": "^0.0.1"
+  }
+}
